@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi 👋, I'm Arpit Thorat
 
-<!--
-**arpit-thorat07/arpit-thorat07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Machine Learning Engineer | B.Tech @ IIIT Nagpur
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Computer Vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science & Engineering, IIIT Nagpur (2024–2028)
+- 🤖 Interested in AI, Machine Learning, Deep Learning, NLP, and Computer Vision
+- 📊 Skilled in Data Science, Feature Engineering, and Model Development
+- 🌱 Currently learning MLOps, AWS, and Advanced Deep Learning
+- 🎯 Looking for AI/ML and Data Science opportunities
+
+---
+
+## 📜 Certifications
+
+- 🏆 Machine Learning Specialization — DeepLearning.AI & Stanford University (Andrew Ng)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C
+- C++
+
+### Machine Learning & Deep Learning
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- NLP
+- CNNs
+- RNNs
+
+### Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- OpenCV
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- Google Colab
+- SQL
+- Power BI
+
+---
+
+## 📂 Featured Projects
+
+### Hate Speech Detection using NLP
+🔗 Repository: https://github.com/arpit-thorat07/hate-speech-classification
+
+- Built a text classification model to detect offensive language.
+- Applied Regex-based text preprocessing.
+- Used TF-IDF vectorization.
+- Trained and optimized an SVM classifier.
+- Evaluated using Precision, Recall, and F1-Score.
+
+### Disaster Progression Predictor using Satellite Imagery
+
+- Developed a deep learning model to predict disaster evolution.
+- Utilized CNN and ConvLSTM architectures.
+- Processed satellite imagery using OpenCV, NumPy, and Pandas.
+- Designed a forecasting system for future disaster-state prediction.
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/arpitthorat
+- GitHub: https://github.com/arpit-thorat07
+- Email: arpitthorat55@outlook.com
+
+---
+
+⭐ Always learning, building, and exploring AI, Machine Learning, and Data Science.
