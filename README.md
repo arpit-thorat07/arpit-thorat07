@@ -36,6 +36,7 @@
 - NLP
 - CNNs
 - RNNs
+- LSTMs
 
 ### Data Science
 - Pandas
