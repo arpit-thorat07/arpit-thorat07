@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arpit Thorat
 
-### Aspiring Data Scientist | Machine Learning Engineer | B.Tech @ IIIT Nagpur
+### Data Scientist | Machine Learning Engineer | B.Tech @ IIIT Nagpur
 
 💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Computer Vision.
 
