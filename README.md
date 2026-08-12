@@ -65,14 +65,6 @@
 - Used TF-IDF vectorization.
 - Trained and optimized an SVM classifier.
 - Evaluated using Precision, Recall, and F1-Score.
-
-### Disaster Progression Predictor using Satellite Imagery
-
-- Developed a deep learning model to predict disaster evolution.
-- Utilized CNN and ConvLSTM architectures.
-- Processed satellite imagery using OpenCV, NumPy, and Pandas.
-- Designed a forecasting system for future disaster-state prediction.
-
 ---
 
 ## 🌐 Connect With Me
